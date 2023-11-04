@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\Pete's\Studying\Labs\Descretka\Lab5\Source.cpp(33,20): warning C4018: '<': signed/unsigned mismatch
+D:\Pete's\Studying\Labs\Descretka\Lab5\Source.cpp(34,21): warning C4018: '<': signed/unsigned mismatch
+D:\Pete's\Studying\Labs\Descretka\Lab5\Source.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+D:\Pete's\Studying\Labs\Descretka\Lab5\Source.cpp(48,21): warning C4018: '<': signed/unsigned mismatch
+D:\Pete's\Studying\Labs\Descretka\Lab5\Source.cpp(61,20): warning C4018: '<': signed/unsigned mismatch
+D:\Pete's\Studying\Labs\Descretka\Lab5\Source.cpp(62,21): warning C4018: '<': signed/unsigned mismatch
+  Lab 5.vcxproj -> D:\Pete's\Studying\Labs\Descretka\Lab5\Debug\Lab 5.exe

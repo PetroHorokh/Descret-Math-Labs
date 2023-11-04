@@ -1,0 +1,16 @@
+﻿  Source.cpp
+D:\Pete's\Studying\Labs\Descretka\Lab4\Source.cpp(5,20): warning C4018: '<': signed/unsigned mismatch
+D:\Pete's\Studying\Labs\Descretka\Lab4\Source.cpp(6,23): warning C4018: '<': signed/unsigned mismatch
+D:\Pete's\Studying\Labs\Descretka\Lab4\Source.cpp(16,20): warning C4018: '<': signed/unsigned mismatch
+D:\Pete's\Studying\Labs\Descretka\Lab4\Source.cpp(17,21): warning C4018: '<': signed/unsigned mismatch
+D:\Pete's\Studying\Labs\Descretka\Lab4\Source.cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+D:\Pete's\Studying\Labs\Descretka\Lab4\Source.cpp(112,20): warning C4018: '<': signed/unsigned mismatch
+D:\Pete's\Studying\Labs\Descretka\Lab4\Source.cpp(113,21): warning C4018: '<': signed/unsigned mismatch
+D:\Pete's\Studying\Labs\Descretka\Lab4\Source.cpp(127,21): warning C4018: '<': signed/unsigned mismatch
+D:\Pete's\Studying\Labs\Descretka\Lab4\Source.cpp(128,22): warning C4018: '<': signed/unsigned mismatch
+D:\Pete's\Studying\Labs\Descretka\Lab4\Source.cpp(137,21): warning C4018: '<': signed/unsigned mismatch
+D:\Pete's\Studying\Labs\Descretka\Lab4\Source.cpp(138,22): warning C4018: '<': signed/unsigned mismatch
+D:\Pete's\Studying\Labs\Descretka\Lab4\Source.cpp(174,21): warning C4018: '<': signed/unsigned mismatch
+D:\Pete's\Studying\Labs\Descretka\Lab4\Source.cpp(176,29): warning C4018: '<': signed/unsigned mismatch
+D:\Pete's\Studying\Labs\Descretka\Lab4\Source.cpp(187,21): warning C4018: '<': signed/unsigned mismatch
+  Lab4.vcxproj -> D:\Pete's\Studying\Labs\Descretka\Lab4\Debug\Lab4.exe

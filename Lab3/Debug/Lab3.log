@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Pete's\Studying\Labs\Descretka\Lab3\Source.cpp(35,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Pete's\Studying\Labs\Descretka\Lab3\Source.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+D:\Pete's\Studying\Labs\Descretka\Lab3\Source.cpp(67,21): warning C4018: '<': signed/unsigned mismatch
+  Lab3.vcxproj -> D:\Pete's\Studying\Labs\Descretka\Lab3\Debug\Lab3.exe
